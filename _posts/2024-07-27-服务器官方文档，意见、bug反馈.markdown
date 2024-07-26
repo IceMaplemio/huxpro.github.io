@@ -10,9 +10,12 @@ tags:
     - 服务器公告
 ---
 
-Bug反馈链接:https://mc.icemaplemio.icu/post/Bug-fan-kui.html
+服务器官方文档: https://mc.icemaplemio.icu/
 
-意见反馈链接:https://mc.icemaplemio.icu/post/yi-jian-fan-kui.html
+
+Bug反馈链接: https://mc.icemaplemio.icu/post/Bug-fan-kui.html
+
+意见反馈链接: https://mc.icemaplemio.icu/post/yi-jian-fan-kui.html
 
 Bug反馈、意见反馈。请使用评论功能(github)
 
