@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "服务器必备模组,没有你进不去服务器"
+subtitle:   " \"IceMaplemio服务器\""
+date:       2024-07-26 12:00:00
+author:     "IceMaplemio"
+header-img: "img/2024-07-26.jpg"
+catalog: true
+tags:
+    - 新人必看
+---
+
+浏览链接:https://www.mcmod.cn/class/6688.html (MC百科)
+浏览链接:https://github.com/CreeperHost/FTB-Backups-2 (GitHub)
