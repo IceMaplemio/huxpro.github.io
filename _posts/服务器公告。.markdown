@@ -6,7 +6,7 @@ author:     "IceMaplemio"
 header-img: text
 catalog: true
 tags:
-    - omo
+    - Meta
 ---
 
 主服版本1.21只支持正版登录。
