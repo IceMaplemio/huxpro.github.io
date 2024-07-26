@@ -89,6 +89,8 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
+服务器IP:
   [
+  mc37.rhymc.com:21349 主服
+  mcp5.rhymc.com:1081 备用服
   ]
