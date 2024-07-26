@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+title:      "服务器公告。"
+subtitle:   "进服必看"
+author:     "IceMaplemio"
+header-img: text
 catalog: true
 tags:
     - Meta
 ---
 
+## 正文
 主服版本1.21只支持正版登录。
 备用服版本1.20.1只支持离线登录。
 (主服与备用服不互通)
