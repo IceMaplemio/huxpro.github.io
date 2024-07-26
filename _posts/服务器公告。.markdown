@@ -2,9 +2,8 @@
 layout:     post
 title:      "服务器公告。"
 subtitle:   "进服必看"
-date:       2024-07-26 15:00:00
-author:     "Hux"
-header-img: "img/服务器公告。.jpg"
+author:     "IceMaplemio"
+header-img: text
 catalog: true
 tags:
     - omo
