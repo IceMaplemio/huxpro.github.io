@@ -2,7 +2,7 @@
 layout:     post
 title:      "服务器官方文档，意见、bug反馈"
 subtitle:   " \"IceMaplemio服务器\""
-date:       2024-07-27 12:00:00
+date:       2024-07-26 12:00:00
 author:     "IceMaplemio"
 header-img: "img/2024-07-26.jpg"
 catalog: true
