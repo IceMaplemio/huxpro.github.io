@@ -1,0 +1,16 @@
+layout:     post
+title:      "服务器官方文档，意见、bug反馈"
+subtitle:   " \"IceMaplemio服务器\""
+date:       2024-07-27 12:00:00
+author:     "IceMaplemio"
+header-img: "img/2024-07-26.jpg"
+catalog: true
+tags:
+    - 服务器公告
+---
+
+Bug反馈链接:https://mc.icemaplemio.icu/post/Bug-fan-kui.html
+
+意见反馈链接:https://mc.icemaplemio.icu/post/yi-jian-fan-kui.html
+
+Bug反馈、意见反馈。请使用评论功能(github)
