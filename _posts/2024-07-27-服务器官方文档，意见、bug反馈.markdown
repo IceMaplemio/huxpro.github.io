@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      "服务器官方文档，意见、bug反馈"
 subtitle:   " \"IceMaplemio服务器\""
