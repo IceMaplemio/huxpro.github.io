@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "在我的世界里看(巴黎)奥运会"
+subtitle:   " \"IceMaplemio服务器\""
+date:       2024-07-27 00:00:00
+author:     "IceMaplemio"
+header-img: "img/2024-07-26.jpg"
+catalog: true
+tags:
+    - 服务器特别活动
+
+---
+
+在我的世界里看(巴黎)奥运会,欢迎来到 mc2.icemaplemio.icu 观看游玩。
+
+服务器版本1.12.2 服务器关闭时间2024-07-28 00.00.00
