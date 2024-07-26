@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "服务器推荐整合包"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "IceMaplemio"
+header-img: "img/2024-07-26.jpg"
+catalog: true
+tags:
+    - Life
+    - Meta
+---
+
+浏览链接: https://www.bilibili.com/video/BV1tn4y1X7of/?spm_id_from=333.999.0.0&vd_source=c6979b9a42725f853651ac1c7583e1be （bibibi 哔哩哔哩）
