@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "IceMaplemio"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+date:       2024-07-26 12:00:00
+author:     "IceMaplemio"
+header-img: "2024-07-26.jpg"
 catalog: true
 tags:
-    - Life
-    - Meta
+    - omo
 ---
 
 > “Yeah It's on. ”
