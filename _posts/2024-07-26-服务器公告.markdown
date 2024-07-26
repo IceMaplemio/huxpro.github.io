@@ -8,7 +8,9 @@ header-img: "img/2024-07-26.jpg"
 catalog: true
 tags:
     - 服务器公告
+    - 新人必看
 ---
+
 > “Yeah It's on. ”
 
 
